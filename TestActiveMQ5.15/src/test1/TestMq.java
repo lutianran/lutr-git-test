@@ -2,6 +2,7 @@ package test1;
 
 public class TestMq {
 	public static void main(String[] args) {
+		
 		Producter producter = new Producter();
 		producter.init();
 		TestMq testMq = new TestMq();
